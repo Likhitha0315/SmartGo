@@ -1,3 +1,4 @@
+#SmartGo App
 SmartGo – Transportation App for Rural Areas
 
 Overview:
