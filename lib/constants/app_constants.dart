@@ -5,9 +5,8 @@ import 'package:flutter/material.dart';
 // ─── SUPABASE CONFIG ─────────────────────────────────────────────────────────
 // Replace with your actual Supabase project values from:
 // https://app.supabase.com → Your Project → Settings → API
-const String supabaseUrl = 'https://iheffufpcwaaesydgqar.supabase.co';
-const String supabaseAnonKey =
-    'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImloZWZmdWZwY3dhYWVzeWRncWFyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzU0NzI4NjcsImV4cCI6MjA5MTA0ODg2N30.Lqq1eUVpvOBfRBvNom5uujEBt94xzy_ihDVl5Lz6cmk';
+const String supabaseUrl = 'your supabase url';
+const String supabaseAnonKey = 'your annon key';
 
 // ─── APP INFO ─────────────────────────────────────────────────────────────────
 const String appName = 'SmartGo';
