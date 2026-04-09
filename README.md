@@ -1,7 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 # 🚕 SmartGo – Smart Transportation App
-### Community Service Project | VVIT | S. Likhitha Reddy | 23BQ5A6104
 
 ---
 
@@ -277,7 +276,7 @@ In `android/app/src/main/AndroidManifest.xml`, make sure this line exists:
 
 ---
 
-*SmartGo | VVIT CSP 2025-26 | Dept. of AI & ML*
+
 =======
 =======
 #SmartGo App
