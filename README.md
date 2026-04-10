@@ -4,7 +4,7 @@
 
 ---
 
-## 📁 COMPLETE FOLDER STRUCTURE
+## COMPLETE FOLDER STRUCTURE
 
 ```
 smartgo_app/
@@ -39,7 +39,7 @@ smartgo_app/
 
 ---
 
-## 🔧 TECHNOLOGY STACK
+## TECHNOLOGY STACK
 
 | Layer       | Technology              | Purpose                          |
 |-------------|-------------------------|----------------------------------|
@@ -52,7 +52,7 @@ smartgo_app/
 
 ---
 
-## 🗄️ DATABASE TABLES
+## DATABASE TABLES
 
 | Table          | Columns                                        |
 |----------------|------------------------------------------------|
@@ -64,11 +64,11 @@ smartgo_app/
 
 ---
 
-## 🚀 STEP-BY-STEP SETUP & RUN GUIDE
+## STEP-BY-STEP SETUP & RUN GUIDE
 
 ---
 
-### ✅ PHASE 1 — Extract the Project
+### PHASE 1 — Extract the Project
 
 1. Download and extract the ZIP file
 2. Move the `smartgo_app` folder to your Desktop
@@ -76,7 +76,7 @@ smartgo_app/
 
 ---
 
-### ✅ PHASE 2 — Install Flutter (one-time, ~20 minutes)
+### PHASE 2 — Install Flutter (one-time, ~20 minutes)
 
 **Step 1:** Go to https://docs.flutter.dev/get-started/install  
 **Step 2:** Choose your OS (Windows / macOS / Linux)  
@@ -99,7 +99,7 @@ You should see: `Flutter 3.x.x • channel stable`
 
 ---
 
-### ✅ PHASE 3 — Install Android Studio (for emulator)
+### PHASE 3 — Install Android Studio (for emulator)
 
 **Step 1:** Download from https://developer.android.com/studio  
 **Step 2:** Install with default settings  
@@ -118,7 +118,7 @@ You should see: `Flutter 3.x.x • channel stable`
 
 ---
 
-### ✅ PHASE 4 — Install VS Code
+### PHASE 4 — Install VS Code
 
 1. Download from https://code.visualstudio.com
 2. Install with default settings
@@ -128,7 +128,7 @@ You should see: `Flutter 3.x.x • channel stable`
 
 ---
 
-### ✅ PHASE 5 — Set Up Supabase (free, ~10 minutes)
+### PHASE 5 — Set Up Supabase (free, ~10 minutes)
 
 **Step 1:** Go to https://app.supabase.com and sign up (free)
 
@@ -156,7 +156,7 @@ You should see: `Flutter 3.x.x • channel stable`
 
 ---
 
-### ✅ PHASE 6 — Configure the Flutter App
+### PHASE 6 — Configure the Flutter App
 
 **Step 1:** Open VS Code → File → Open Folder → select `smartgo_app`
 
@@ -177,7 +177,7 @@ const String supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6...';
 
 ---
 
-### ✅ PHASE 7 — Install Dependencies & Run
+### PHASE 7 — Install Dependencies & Run
 
 **Step 1:** Open terminal in VS Code: Terminal → New Terminal
 
@@ -211,7 +211,7 @@ The app will build and launch in ~60 seconds.
 
 ---
 
-## 📱 HOW TO USE THE APP
+## HOW TO USE THE APP
 
 1. **Launch** → Splash screen with 🚕 SmartGo
 2. **Register** → tap "Register" → fill Full Name, Phone, Type of Service
@@ -232,7 +232,7 @@ The app will build and launch in ~60 seconds.
 
 ---
 
-## 🔧 COMMON ERRORS & FIXES
+## COMMON ERRORS & FIXES
 
 | Error | Solution |
 |-------|----------|
@@ -246,7 +246,7 @@ The app will build and launch in ~60 seconds.
 
 ---
 
-## 📌 ANDROID MANIFEST (add internet permission)
+## ANDROID MANIFEST (add internet permission)
 
 In `android/app/src/main/AndroidManifest.xml`, make sure this line exists:
 ```xml
@@ -255,7 +255,7 @@ In `android/app/src/main/AndroidManifest.xml`, make sure this line exists:
 
 ---
 
-## ✨ FEATURES IMPLEMENTED
+## FEATURES IMPLEMENTED
 
 | Feature | Status | Screen |
 |---------|--------|--------|
@@ -280,7 +280,7 @@ In `android/app/src/main/AndroidManifest.xml`, make sure this line exists:
 =======
 =======
 #SmartGo App
->>>>>>> 07a390aeab7008959209f996b6e7740a9f324c49
+
 SmartGo – Transportation App for Rural Areas
 
 Overview:
@@ -331,10 +331,11 @@ const String supabaseKey = 'YOUR_KEY';
 5. Run the App
 flutter run
 
-📱 Screens
+ Screens
+ =========
 
 * Login Screen
 * Registration Screen
 * Home Dashboard
 * Booking Screen
->>>>>>> 35717090b08334540fcde55bcc783bd5551e5f4c
+
